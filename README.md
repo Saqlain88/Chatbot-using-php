@@ -1,5 +1,7 @@
 # Chatbot-using-php
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw1IdtHEcRI2WA9w_9afWf9J&ust=1631788606872000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi22LXkgPMCFQAAAAAdAAAAABAO)
+
 This is a simple application of chat bot where frontend part is made with the help of `HTML` and `CSS`and Backend part is made using `PHP` and for Database `MYSQL` is used.
 
 
